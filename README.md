@@ -37,11 +37,7 @@ Git allows developers to:
 Git follows the open-source philosophy, allowing anyone to use, modify, and distribute the software freely under the GNU General Public License version 2 (GPLv2).
 
 ---
-## Repository Structure
-<img width="554" height="259" alt="image" src="https://github.com/user-attachments/assets/f3d3670c-ae21-4e43-b781-abcee0199558" />
 
-
----
 
 ## 🛠️ Setup & Configuration
 
